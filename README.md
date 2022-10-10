@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Naughty-Galileo
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning object detection and object tracking
 - 📫 To reach me: zj_1793@163.com 
 
 <!---
